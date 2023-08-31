@@ -1,3 +1,3 @@
 # DCSC-Homework
 
-This is the repository where I upload all my homeworks for the Datacenter Scale Computing Class. 
+This is the HW0 branch of DCSC repo. It contains the first homework file in the Datacenter Scale Computing course at CU Boulder.
