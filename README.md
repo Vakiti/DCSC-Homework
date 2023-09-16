@@ -1,8 +1,5 @@
 # DCSC-Homework
 
-This is the repository where I upload all my homeworks for the Datacenter Scale Computing Class. 
-
-
 "CSV Data Processing Python Script with Dockerization"
 
 This repository contains a Python script designed to streamline CSV data manipulation. The script accepts two command-line arguments: the first argument specifies the source CSV file, and the second argument defines the destination for the processed data. The script processes the data in a customizable manner.
